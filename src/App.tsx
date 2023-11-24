@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import viteLogo from '/hypejs.svg'
-import './App.css'
+import './App.scss'
 
 function App() {
   const [count, setCount] = useState(0)
