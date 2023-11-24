@@ -1,7 +1,9 @@
 # yarn 4 + React + Vite 
+Production ready minimal boilerplate
+
 <a href="https://hypejs.com" targer="_blank"> By hypejs.com </a>
 
-With yarn 4 you need to do this in command line 
+With yarn 4 you need to do this in terminal:
 
 1. enable corepack (https://yarnpkg.com/getting-started/install)
 
