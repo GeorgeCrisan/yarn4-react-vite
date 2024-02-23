@@ -18,3 +18,5 @@ yarn dlx @yarnpkg/sdks vscode
 ```
 
 to get the yarn sdks for vscode.
+
+AFTER TYPESCRIPT OR YARN UPGRADE REPEAT THE TWO COMMANDS LISTED ABOVE
